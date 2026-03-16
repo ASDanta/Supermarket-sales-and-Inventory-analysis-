@@ -18,7 +18,8 @@ To simulate real-world inventory analysis similar to my role at BON P Superstore
 - Kaggle Dataset (Nigerian supermarket sales)
 
 ### Dashboard Overview
-![Nigerian Supermarket Sales and Inventory Analysis](dashboard.png)
+![Nigerian Supermarket Sales and Inventory Analysis](
+https://github.com/ASDanta/Supermarket-sales-and-Inventory-analysis-/blob/main/Inventory%20Analysis%20Dashboard.png )
 
 ### Key Findings
 - **Branch Performance**: Lagos recorded the highest revenue, followed by Port Harcourt and Ogun. Abuja performed moderately, while Unidentified was minimal.
